@@ -1,0 +1,1 @@
+<?php echo "sanki o kadar da zor değil gibi"; ?>

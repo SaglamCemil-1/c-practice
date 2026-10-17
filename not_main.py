@@ -1,0 +1,1 @@
+print("bu kadar da kolay değil sanki")
