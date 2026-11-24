@@ -48,7 +48,6 @@ int main_1() {
 
 int main_2() {
     char str1[100],str2[100],combined[200];
-    char absoulete[100],absoulete2[100];
     int i=0,j=0,is_identical=0;
 
     scanf("%s",str1);
@@ -56,11 +55,9 @@ int main_2() {
 
     //same or not
     while (str1[i] != '\0') {
-        absoulete[i] = str1[i];
         i++;
     }
     while (str2[j] != '\0') {
-        absoulete2[j] = str2[j];
         j++;
     }
     if (i == j) {
